@@ -15,10 +15,10 @@ struct Convert: ParsableCommand {
     )
 
     @Argument(transform: { URL(fileURLWithPath: $0, isDirectory: true) })
-    var input: URL
+    var input: URL = URL(fileURLWithPath: "Input", isDirectory: true)
 
     @Argument(transform: { URL(fileURLWithPath: $0, isDirectory: true) })
-    var output: URL
+    var output: URL = URL(fileURLWithPath: "Output", isDirectory: true)
 
     func run() throws {
         try convertBrazil()

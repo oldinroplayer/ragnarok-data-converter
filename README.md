@@ -15,13 +15,13 @@ Convert Ragnarok Online client resource files into normalized JSON datasets.
 ### Convert
 
 ```bash
-swift run ragnarok-data-converter convert <input> <output>
+swift run ragnarok-data-converter convert [<input>] [<output>]
 ```
 
 `convert` is the default subcommand, so it may be omitted.
 
-- `input`: directory containing one subdirectory per Ragnarok Online client (see below)
-- `output`: directory where JSON files will be written
+- `input`: directory containing one subdirectory per Ragnarok Online client (see below); defaults to `Input`
+- `output`: directory where JSON files will be written; defaults to `Output`
 
 ### Fetch monster names
 
