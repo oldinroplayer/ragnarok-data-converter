@@ -1616,3 +1616,94 @@
 300720#S_Kaya_Toss_Card#
 300721#S_Tatio_Card#
 300722#S_Rekenber_Card#
+//드루이드 아이템
+300683#Howell_Card#
+//독수리 5형제 콜라보
+300732#CLB_GAT_card1#
+300733#CLB_GAT_card2#
+300734#CLB_GAT_card3#
+//챕터2 카드
+300761#Dragonclam_Card#
+300762#Flamebull_Card#
+300763#Urochs_Card#
+300764#Logidogi_Card#
+300765#Firecotton_Card#
+300766#Namunse_Card#
+300767#Namuni_Card#
+300768#Dudulson_Card#
+300769#Garackson_Card#
+300770#Tuktakson_Card#
+300771#Paruson_Card#
+300772#Morbang_Card#
+300773#Fireclaw_Card#
+300774#Flameanima_Card#
+300775#Frost_Morbang_Card#
+300776#Alpuring_Card#
+300777#Icyblast_Card#
+300778#Iceneedle_Card#
+300779#Folnir_Nilf_Card#
+300780#Folnir_Myrk_Card#
+300781#Folnir_Hre_Card#
+300782#Feeos_Card#
+300783#Antirrhinum_Card#
+
+// 이차원 바이오스피어 대지화산
+300790#ABI_Ground_E_Card#
+300791#ABI_Ground_W_Card#
+300792#ABI_Ground_S_Card#
+300793#ABI_Ground_N_Card#
+300794#ABI_Lava_E_Card#
+300795#ABI_Lava_W_Card#
+300796#ABI_Lava_S_Card#
+300797#ABI_Lava_N_Card#
+
+//26년오션위크
+300844#Ocean_Maram_Card#
+
+// 이차원 바이오스피어 맹독혹한
+300836#ABI_Venom_E_Card#
+300837#ABI_Venom_W_Card#
+300838#ABI_Venom_S_Card#
+300839#ABI_Venom_N_Card#
+300840#ABI_Ice_E_Card#
+300841#ABI_Ice_W_Card#
+300842#ABI_Ice_S_Card#
+300843#ABI_Ice_N_Card#
+
+// 유노 도서관 0102
+300907#Isgard_M_Book_Card#
+300908#Demon_K_C_S_Card#
+//아기상어콜라보
+300834#CLB_BS_Card1#
+300835#CLB_BS_Card2#
+
+// 이차원 바이오스피어 영혼성전죽음
+300895#ABI_Soul_E_Card#
+300896#ABI_Soul_W_Card#
+300897#ABI_Soul_S_Card#
+300898#ABI_Soul_N_Card#
+300899#ABI_Temple_E_Card#
+300900#ABI_Temple_W_Card#
+300901#ABI_Temple_S_Card#
+300902#ABI_Temple_N_Card#
+300903#ABI_Death_E_Card#
+300904#ABI_Death_W_Card#
+300905#ABI_Death_S_Card#
+300906#ABI_Death_N_Card#
+
+// 유노 도서관 03
+300935#Razrygz_Tew_Card#
+
+// 이차원 바이오스피어 공장계곡정글
+300952#ABI_Factory_E_Card#
+300953#ABI_Factory_W_Card#
+300954#ABI_Factory_S_Card#
+300955#ABI_Factory_N_Card#
+300956#ABI_Valley_E_Card#
+300957#ABI_Valley_W_Card#
+300958#ABI_Valley_S_Card#
+300959#ABI_Valley_N_Card#
+300960#ABI_Jungle_E_Card#
+300961#ABI_Jungle_W_Card#
+300962#ABI_Jungle_S_Card#
+300963#ABI_Jungle_N_Card#

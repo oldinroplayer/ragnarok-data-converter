@@ -1,6 +1,56 @@
 // ==========================================================================
-// resnametable.txt 본서버 최종수정: 2025-10-13 - 프론 훈련장 리뉴얼
+// resnametable.txt 본서버 최종수정: 2026-08-11 - 흑염룡의 옥좌
 // ==========================================================================
+// 흑염룡의 옥좌
+4@ch_t.gnd#4@ch_t.gnd#
+4@ch_t.gat#4@ch_t.gat#
+4@ch_t.rsw#4@ch_t.rsw#
+유저인터페이스\map\1@ch_t.bmp#유저인터페이스\map\1@ch_t.bmp#
+5@ch_t.gnd#3@ch_t.gnd#
+5@ch_t.gat#3@ch_t.gat#
+5@ch_t.rsw#3@ch_t.rsw#
+유저인터페이스\map\1@ch_t.bmp#유저인터페이스\map\1@ch_t.bmp#
+6@ch_t.gnd#4@ch_t.gnd#
+6@ch_t.gat#4@ch_t.gat#
+6@ch_t.rsw#4@ch_t.rsw#
+유저인터페이스\map\1@ch_t.bmp#유저인터페이스\map\1@ch_t.bmp#
+
+// 아기상어 콜라보
+1@pbs.gnd#1@pbs.gnd#
+1@pbs.gat#1@pbs.gat#
+1@pbs.rsw#1@pbs.rsw#
+유저인터페이스\map\1@pbs.bmp#유저인터페이스\map\1@pbs.bmp#
+pbse.gnd#cmd_bhole.gnd#
+pbse.gat#cmd_bhole.gat#
+pbse.rsw#cmd_bhole.rsw#
+유저인터페이스\map\pbse.bmp#유저인터페이스\map\cmd_bhole.bmp#
+
+// 챕터2 종말의 파편
+1@ch2a.gnd#1@ch2a.gnd#
+1@ch2a.gat#1@ch2a.gat#
+1@ch2a.rsw#1@ch2a.rsw#
+유저인터페이스\map\1@ch2a.bmp#유저인터페이스\map\1@ch2a.bmp#
+1@ch2b.gnd#1@alta.gnd#
+1@ch2b.gat#1@alta.gat#
+1@ch2b.rsw#1@alta.rsw#
+유저인터페이스\map\1@ch2b.bmp#유저인터페이스\map\1@alta.bmp#
+
+// 과학닌자대 갓챠만, 독수리오형제 콜라보
+1@gat.gnd#in_sphinx4.gnd#
+1@gat.gat#in_sphinx4.gat#
+1@gat.rsw#in_sphinx4.rsw#
+유저인터페이스\map\1@gat.bmp#유저인터페이스\map\in_sphinx4.bmp#
+
+// 드루이드
+1@krns.gnd#1@krns.gnd#
+1@krns.gat#1@krns.gat#
+1@krns.rsw#1@krns.rsw#
+유저인터페이스\map\1@krns.bmp#유저인터페이스\map\1@krns.bmp#
+1@alta.gnd#1@alta.gnd#
+1@alta.gat#1@alta.gat#
+1@alta.rsw#1@alta.rsw#
+유저인터페이스\map\1@alta.bmp#유저인터페이스\map\1@alta.bmp#
+
 // 프론테라 훈련장 리뉴얼
 tra_fild01.gnd#tra_fild02.gnd#
 tra_fild01.gat#tra_fild02.gat#
